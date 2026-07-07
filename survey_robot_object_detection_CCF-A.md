@@ -352,25 +352,25 @@
 
 ## 七、核心论文索引
 
-| # | 论文 | 会议 | 年份 | 方向 | 链接 |
-|---|------|------|------|------|------|
-| 1 | YOLO-World | CVPR | 2024 | 开放词汇检测 | [arXiv](https://arxiv.org/abs/2401.17270) |
-| 2 | Grounding DINO | ECCV | 2024 | 开放集检测 | [arXiv](https://arxiv.org/abs/2303.05499) |
-| 3 | Rex-Omni (Detect Anything) | arXiv | 2025 | 统一视觉感知 | [arXiv](https://arxiv.org/abs/2510.12798) |
-| 4 | Segment Anything (SAM) | ICCV | 2023 | 基础分割 | [arXiv](https://arxiv.org/abs/2304.02643) |
-| 5 | ConceptGraphs | ICRA | 2024 | 3D 开放词汇场景图 | [project](https://concept-graphs.github.io) |
-| 6 | HOV-SG | CVPR | 2024 | 层次化 3D 场景图 | [arXiv](https://arxiv.org/abs/2401.13259) |
-| 7 | OpenAD | NeurIPS | 2024 | 开放词汇 3D 检测 | [arXiv](https://arxiv.org/abs/2403.09510) |
-| 8 | GaussianGrasper | CVPR | 2024 | 3DGS 灵巧抓取 | [arXiv](https://arxiv.org/abs/2403.19696) |
-| 9 | AnyGrasp | ICML | 2024 | 通用抓取策略 | [arXiv](https://arxiv.org/abs/2212.08333) |
-| 10 | UniDexGrasp | ICML | 2024 | 灵巧抓取泛化 | [arXiv](https://arxiv.org/abs/2307.14572) |
-| 11 | DexVLG | NeurIPS | 2024 | 语言引导灵巧抓取 | [arXiv](https://arxiv.org/abs/2412.01711) |
-| 12 | AffordanceSAM | arXiv | 2024/25 | 供用性分割 | [arXiv](https://arxiv.org/abs/2407.12494) |
-| 13 | OK-Robot | RSS | 2024 | 零样本操作 | [project](https://ok-robot.github.io) |
-| 14 | PhysDreamer | NeurIPS | 2024 | 物理属性估计 | [arXiv](https://arxiv.org/abs/2404.13026) |
-| 15 | PhysBench | NeurIPS | 2024 | 物理属性基准 | [arXiv](https://arxiv.org/abs/2409.17955) |
-| 16 | SpatialVLM | CVPR | 2024 | 3D 空间推理 | [arXiv](https://arxiv.org/abs/2401.12123) |
-| 17 | RoboCare | AAAI | 2024 | 康养辅助规划 | — |
+| # | 论文 | 会议 | 年份 | 方向 |
+|---|------|------|------|------|
+| 1 | YOLO-World | CVPR | 2024 | 开放词汇检测 |
+| 2 | Grounding DINO | ECCV | 2024 | 开放集检测 |
+| 3 | Rex-Omni (Detect Anything) | arXiv | 2025 | 统一视觉感知 |
+| 4 | Segment Anything (SAM) | ICCV | 2023 | 基础分割 |
+| 5 | ConceptGraphs | ICRA | 2024 | 3D 开放词汇场景图 |
+| 6 | HOV-SG | CVPR | 2024 | 层次化 3D 场景图 |
+| 7 | OpenAD | NeurIPS | 2024 | 开放词汇 3D 检测 |
+| 8 | GaussianGrasper | CVPR | 2024 | 3DGS 灵巧抓取 |
+| 9 | AnyGrasp | ICML | 2024 | 通用抓取策略 |
+| 10 | UniDexGrasp | ICML | 2024 | 灵巧抓取泛化 |
+| 11 | DexVLG | NeurIPS | 2024 | 语言引导灵巧抓取 |
+| 12 | AffordanceSAM | arXiv | 2024/25 | 供用性分割 |
+| 13 | OK-Robot | RSS | 2024 | 零样本操作 |
+| 14 | PhysDreamer | NeurIPS | 2024 | 物理属性估计 |
+| 15 | PhysBench | NeurIPS | 2024 | 物理属性基准 |
+| 16 | SpatialVLM | CVPR | 2024 | 3D 空间推理 |
+| 17 | RoboCare | AAAI | 2024 | 康养辅助规划 |
 
 ---
 
