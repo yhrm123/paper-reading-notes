@@ -21,4 +21,6 @@ paper-reading-notes/
 │   └── 论文插图/
 │
 └── survey_*.md             # 领域综述笔记
+
 ```
+all information is avaliable in github
