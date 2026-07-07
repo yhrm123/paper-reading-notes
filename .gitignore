@@ -1,0 +1,21 @@
+# Source code repos (public clones, skip upload)
+SAM/segment-anything/
+SAM/.git/
+SAM/.agents/
+SAM/.claude/
+DetectAnything/RexOmni/
+
+# PPTX extracted XML (redundant with .pptx file)
+SAM/pptx_extracted/
+
+# Empty placeholder files
+SAM/新建 文本文档.txt
+
+# Claude / IDE
+.claude/
+.agents/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
